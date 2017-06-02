@@ -1,1 +1,1 @@
-Sitemap: http://www.hetnieuwespookhuis.nl/hetnieuwespookhuis/sitemap.xml
+Sitemap: https://bravebox.github.io//hetnieuwespookhuis//sitemap.xml
