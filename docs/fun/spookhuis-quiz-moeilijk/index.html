@@ -11,4 +11,31 @@
       questionCountText: 'Vraag %current van %total',
       preventUnansweredText: 'You must select at least one answer.'
     });
+
+    setTimeout(function() { 
+        $('.vs-pageloader').fadeOut('fast');
+    }, 1400);
+
+    $('.svg-inline').each(function() {
+    var $img = $(this),
+        imgURL = $img.attr('src'),
+        imgID  = $img.attr('id');
+    
+        $.get(imgURL, function(data) {
+            // Get the SVG tag, ignore the rest
+            var $svg = $(data).find('svg');
+            // Add replaced image's ID to the new SVG
+            if(typeof imgID !== 'undefined') {
+                $svg = $svg.attr('id', imgID);
+            }
+            $svg = $svg.removeAttr('xmlns:a');
+            $img.replaceWith($svg);
+        }, 'xml');
+    });
+
+    $(".vs-nav-trigger").click(function(e) {
+        e.preventDefault();
+        $('.vs-nav').toggle();
+    });
+    
   });</script></div><div class="vs-footer"><ul class="vs-social"><li><a href="https://www.facebook.com/tjerknoordraven"><i class="socicon socicon-facebook icon icon--xl"></i><span>Facebook</span></a></li><li><a href="https://www.instagram.com/tjerknoordraven"><i class="socicon socicon-instagram icon icon--xl"></i><span>Instagram</span></a></li><li><a href="https://www.snapchat.com/add/tjerknoordraven"><i class="socicon socicon-snapchat icon icon--xl"></i><span>Snapchat</span></a></li></ul><div class="u-p-2 u-text--c"><h4 class="u-m-0 primary">Copyright 2017 - Tjerk Noordraven</h4><p class="u-color--muted">Fotografie: Bart van Dieken (bartvandieken.com) | Website: Mick Schouten (bravebox.io)</p></div></div></body></html>
