@@ -7,11 +7,11 @@ var quizJSON = {
         "name":    "Spookhuis Quiz (Moeilijk)!",
         "main":    "<p>Begin de quiz door op start te klikken</p>",
         "results": "<a class='u-btn-primary u-btn-primary--sml' href='/hetnieuwespookhuis/fun/spookhuis-quiz'>Probeer opnieuw</a> <a class='u-btn-primary u-btn-primary--sml' href='/hetnieuwespookhuis/fun'>Terug naar Fun</a>",
-        "level1": "Eus doet een dansje in zijn kooi, want je hebt alle vragen goed. Jij behoort nu officieel tot de beste lezers van Het nieuwe spookhuis ooit!",
-        "level2": "Eus doet een dansje in zijn kooi, want je hebt 80% tot 90% van de vragen goed. Jij hebt het boek erg goed gelezen!",
-        "level3": "Een natte lik van de hellehond over je gezicht, want je hebt 60% tot 70% van de vragen goed. Jij hebt het boek goed gelezen!",
-        "level4": "Een natte lik van de hellehond over je gezicht, want je hebt 30% tot 50% van de vragen goed. Dat is best knap voor zo’n moeilijke quiz!",
-        "level5": "De hellehond begint te grommen, want je hebt minder dan 3 vragen goed. Maar het waren ook wel moeilijke vragen, hoor. Heb je de andere quiz al geprobeerd?"
+        "level1": "Eus doet een dansje in zijn kooi, want je hebt een superhoge score. Jij behoort nu officieel tot de beste lezers van Het nieuwe spookhuis ooit!",
+        "level2": "Eus doet een dansje in zijn kooi, want je hebt het uitstekend gedaan. Jij hebt het boek erg goed gelezen!",
+        "level3": "Een natte lik van de hellehond over je gezicht, want je hebt het prima gedaan. Jij hebt het boek goed gelezen!",
+        "level4": "Een natte lik van de hellehond over je gezicht, want je hebt het helemaal niet slecht gedaan.",
+        "level5": "De hellehond begint te grommen, want dit is wel een hele lage score. Maar het waren ook wel moeilijke vragen, hoor. Heb je de andere quiz al geprobeerd?"
     },
     "questions": [
 

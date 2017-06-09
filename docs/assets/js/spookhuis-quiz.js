@@ -7,11 +7,11 @@ var quizJSON = {
         "name":    "Spookhuis Quiz!",
         "main":    "<p>Begin de quiz door op start te klikken</p>",
         "results": "<a class='u-btn-primary u-btn-primary--sml' href='/hetnieuwespookhuis/fun/spookhuis-quiz'>Probeer opnieuw</a> <a class='u-btn-primary u-btn-primary--sml' href='/hetnieuwespookhuis/fun'>Terug naar Fun</a>",
-        "level1":  "Bij Ra! Je hebt alle vragen goed! Je hebt het boek supergoed gelezen!",
-        "level2":  "Bij Ra! Je hebt 80% tot 90% van de vragen goed. Jij hebt het boek goed gelezen!",
-        "level3":  "Bij Ra! Je hebt 60% tot 70% van de vragen goed. Een dikke voldoende!",
-        "level4":  "Bij Ra! Je hebt 30% tot 50% van de vragen goed. Dat kan beter… probeer het nog eens!",
-        "level5":  "Bij Ra! Je hebt minder dan 3 vragen goed. Ehm… heb je het boek eigenlijk wel gelezen?"
+        "level1":  "Bij Ra! Jij hebt het boek supergoed gelezen! Durf je ook de moeilijke quiz te doen?",
+        "level2":  "Bij Ra! Wat goed! Durf je ook de moeilijke quiz te doen?",
+        "level3":  "Bij Ra! Dat is niet slecht!",
+        "level4":  "Hm… Dat kan beter… probeer het nog eens!",
+        "level5":  "Ehm… heb je het boek eigenlijk wel gelezen?"
     },
     "questions": [
         {
