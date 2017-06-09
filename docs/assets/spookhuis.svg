@@ -25,7 +25,7 @@
         }
 
         .gate-right {
-            transform-origin: center right;
+            transform-origin: 580px 0px;
             animation: gate_hinge_right 6s linear infinite;
         }
         
@@ -48,7 +48,7 @@
         }
         
         .gate-left {
-            transform-origin: center left;
+            transform-origin: 500px 0px;
             animation: gate_hinge_left 4s linear infinite;
         }
         
@@ -71,12 +71,12 @@
         }
         
         .tree {
-            transform-origin: center bottom;
+            transform-origin: 1100px 400px;
             animation: tree_wind 4s linear infinite;
         }
         
         .tree2 {
-            transform-origin: center bottom;
+            transform-origin: 700px 500px;
             animation: tree_wind2 4s linear infinite;
         }
         

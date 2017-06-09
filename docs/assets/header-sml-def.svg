@@ -70,12 +70,12 @@
         }
         
         .tree {
-            transform-origin: center bottom;
+            transform-origin: 120px 160px;
             animation: tree_wind 4s linear infinite;
         }
         
         .tree2 {
-            transform-origin: center bottom;
+            transform-origin: 100px 130px;
             animation: tree_wind2 4s linear infinite;
         }
         
