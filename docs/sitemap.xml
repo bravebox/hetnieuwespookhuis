@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bravebox.github.io//hetnieuwespookhuis//agenda/agenda-01/</loc>
-<lastmod>2017-05-15T12:00:00+02:00</lastmod>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//agenda/de-engste-avond-ooit/</loc>
+<lastmod>2017-06-01T19:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>https://bravebox.github.io//hetnieuwespookhuis//op-jouw-school/</loc>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//het-nieuwe-spookhuis/</loc>
 </url>
 <url>
 <loc>https://bravebox.github.io//hetnieuwespookhuis//de-serie/</loc>
@@ -14,15 +14,24 @@
 <loc>https://bravebox.github.io//hetnieuwespookhuis//over-mij/</loc>
 </url>
 <url>
-<loc>https://bravebox.github.io//hetnieuwespookhuis//</loc>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//op-jouw-school/</loc>
 </url>
 <url>
 <loc>https://bravebox.github.io//hetnieuwespookhuis//agenda/</loc>
 </url>
 <url>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//contact/</loc>
+</url>
+<url>
 <loc>https://bravebox.github.io//hetnieuwespookhuis//fun/</loc>
 </url>
 <url>
-<loc>https://bravebox.github.io//hetnieuwespookhuis//contact/</loc>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//</loc>
+</url>
+<url>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//fun/spookhuis-quiz/</loc>
+</url>
+<url>
+<loc>https://bravebox.github.io//hetnieuwespookhuis//fun/spookhuis-quiz-moeilijk/</loc>
 </url>
 </urlset>
