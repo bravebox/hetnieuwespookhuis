@@ -3,6 +3,7 @@
 .vscode/
 **/*.DS_Store
 node_modules/
+_bak/
 
 src/
 _config-production.yml
