@@ -35,7 +35,7 @@ var quizJSON = {
         },
         
         {
-            "q": "Van wel materiaal is de kooi van Dragos?",
+            "q": "Van welk materiaal is de kooi van Dragos?",
             "a": [
                 {"option": "Bamboe", "correct": false},
                 {"option": "IJzer", "correct": false},
