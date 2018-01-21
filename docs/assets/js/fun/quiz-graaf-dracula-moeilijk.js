@@ -100,8 +100,8 @@ var quizJSON = {
             "a": [
                 {"option": "50 jaar", "correct": false},
                 {"option": "150 jaar", "correct": false},
-                {"option": "500 jaar", "correct": true},
-                {"option": "Meer dan 500 jaar", "correct": false}                
+                {"option": "500 jaar", "correct": false},
+                {"option": "Meer dan 500 jaar", "correct": true} 
             ]
         }
     ]
