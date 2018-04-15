@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.engsteserieooit.nl//agenda/</loc>
+</url>
+<url>
 <loc>http://www.engsteserieooit.nl//het-nieuwe-spookhuis/</loc>
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//de-transsylvanie-express/</loc>
 </url>
 <url>
-<loc>http://www.engsteserieooit.nl//over-mij/</loc>
-</url>
-<url>
 <loc>http://www.engsteserieooit.nl//op-jouw-school/</loc>
 </url>
 <url>
-<loc>http://www.engsteserieooit.nl//agenda/</loc>
+<loc>http://www.engsteserieooit.nl//boekbespreking/</loc>
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//contact/</loc>
 </url>
 <url>
-<loc>http://www.engsteserieooit.nl//boekbespreking/</loc>
+<loc>http://www.engsteserieooit.nl//over-mij/</loc>
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//fun/</loc>
@@ -28,13 +28,13 @@
 <loc>http://www.engsteserieooit.nl//</loc>
 </url>
 <url>
-<loc>http://www.engsteserieooit.nl//monsterwereld/</loc>
-</url>
-<url>
 <loc>http://www.engsteserieooit.nl//de-serie/</loc>
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//fun/transsylvanie-quiz-moeilijk/</loc>
+</url>
+<url>
+<loc>http://www.engsteserieooit.nl//fun/spookhuis-quiz-moeilijk/</loc>
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//fun/transsylvanie-quiz/</loc>
@@ -44,9 +44,6 @@
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//fun/spookhuis-quiz/</loc>
-</url>
-<url>
-<loc>http://www.engsteserieooit.nl//fun/spookhuis-quiz-moeilijk/</loc>
 </url>
 <url>
 <loc>http://www.engsteserieooit.nl//games/engste-geheugenspel/index.html</loc>

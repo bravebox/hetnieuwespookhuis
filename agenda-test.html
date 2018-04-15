@@ -1,0 +1,34 @@
+---
+layout: contentful
+permalink: "/agenda-markdowntest/"
+title: Agenda
+description: Kom naar een lezing, signeersessie, auteursbezoek of evenement met griezelschrijver Tjerk Noordraven. Alle data en locaties vind je hier.
+author: Tjerk Noordraven
+image: assets/img/tjerk-banner-04.png
+contentful_id: 5V6ZQ1i9yMs8KiEaQogQOk
+contentful_id2: 5ieo3iN2Uoec6ecwMaSAIE
+tags:
+- Tjerk Noordraven
+---
+
+{% for p in site.data.contentful.spaces.pages.page %}
+    {% if p.sys.id == page.contentful_id %}
+        {{ p.title }}
+        {{ p.body }}
+    {% endif %}
+{% endfor %}
+
+<!-- <p>Hieronder vind je de data waarop ik een openbare lezing, signeersessie of auteursbezoek heb. Dan kun je dus langskomen! Ik treed ook vaak op scholen op, maar die data zie je hier niet, omdat die lezingen niet openbaar zijn. Wil je dat ik op jouw school kom vertellen over mijn boek? Dat kan!</p>
+
+<p>Kijk daarvoor op de pagina <a href="/op-jouw-school">Op jouw school</a>.</p>
+
+<h4><strong>Openbare optredens Tjerk Noordraven</strong></h4>
+
+<h5 style="margin: 0;"><strong>17 juni 2018: De Engste Serie Ooit Experience</strong></h5>
+<p>Deze zondag staat helemaal in het teken van de serie! Ik vertel over mijn boeken en mijn veermuizen, je kunt echte mensenskeletten aanraken, er is een mummierace, je kunt je toekomst laten voorspellen door een waarzegster en nog veel meer. Natuurlijk kun je ook mijn gloednieuwe boek De horrorhoeve kopen en laten signeren.</p>
+
+<p>
+Tijd: volgt<br>
+Locatie: Het Rariteitenkabinet, Korte Molenstraat 23, Den Haag<br>
+Entree: gratis
+</p> -->
